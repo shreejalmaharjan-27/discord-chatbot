@@ -14,3 +14,7 @@ Finally, you must run `npm run build` to build the bot.
 ## Usage
 
 To start the bot you must run `npm start`.
+
+## Demonstration
+
+https://discord.gg/Gu8Z9qZRwc
